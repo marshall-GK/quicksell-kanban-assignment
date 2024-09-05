@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/quicksell-kanban-assignment/static/css/main.63594932.css",
+    "main.js": "/quicksell-kanban-assignment/static/js/main.9d632c91.js",
+    "static/js/453.cb5396a6.chunk.js": "/quicksell-kanban-assignment/static/js/453.cb5396a6.chunk.js",
+    "static/media/settings.svg": "/quicksell-kanban-assignment/static/media/settings.0168095040354204011b596e30abf32e.svg",
+    "static/media/cancelledTicket.svg": "/quicksell-kanban-assignment/static/media/cancelledTicket.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/more.svg": "/quicksell-kanban-assignment/static/media/more.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/no_priority.svg": "/quicksell-kanban-assignment/static/media/no_priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "index.html": "/quicksell-kanban-assignment/index.html",
+    "static/media/done.svg": "/quicksell-kanban-assignment/static/media/done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/low.svg": "/quicksell-kanban-assignment/static/media/low.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/medium.svg": "/quicksell-kanban-assignment/static/media/medium.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/high.svg": "/quicksell-kanban-assignment/static/media/high.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/urgent_grey.svg": "/quicksell-kanban-assignment/static/media/urgent_grey.45cb3c374d391aeb2ee4672390634279.svg",
+    "static/media/add.svg": "/quicksell-kanban-assignment/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/inprogress.svg": "/quicksell-kanban-assignment/static/media/inprogress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/urgent.svg": "/quicksell-kanban-assignment/static/media/urgent.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/backlog.svg": "/quicksell-kanban-assignment/static/media/backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/incomplete.svg": "/quicksell-kanban-assignment/static/media/incomplete.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "static/media/collapse.svg": "/quicksell-kanban-assignment/static/media/collapse.d7add8053c1e52468c8c64f69305908b.svg",
+    "static/media/expand.svg": "/quicksell-kanban-assignment/static/media/expand.2c4058f4dd6f93584acf13aed518b878.svg",
+    "main.63594932.css.map": "/quicksell-kanban-assignment/static/css/main.63594932.css.map",
+    "main.9d632c91.js.map": "/quicksell-kanban-assignment/static/js/main.9d632c91.js.map",
+    "453.cb5396a6.chunk.js.map": "/quicksell-kanban-assignment/static/js/453.cb5396a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63594932.css",
+    "static/js/main.9d632c91.js"
+  ]
+}
