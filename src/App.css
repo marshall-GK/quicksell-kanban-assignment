@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.cardUserStatus {
+  right: -5px;
+  bottom: -4px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  background-color: #d9d9d9;
+  border-radius: 50%;
+  z-index: 1;
+  border: solid 2px #ffffff;
+  margin: 1px;
+}
+.cardUserImg {
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  /* box-shadow: 0px 0px 2px grey; */
+  position: relative;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 12px;
+}
+.cardUserStatusActive {
+  background-color: green;
+}
